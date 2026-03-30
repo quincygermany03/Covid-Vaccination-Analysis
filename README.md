@@ -15,7 +15,10 @@ The result is a clean, analysis-ready dataset that supports demographic insights
 
 ## Dashboard Preview
 
-<img width="1200" height="1553" alt="Dashboard 1" src="https://github.com/user-attachments/assets/d365190b-5b15-4f5a-bde8-e48b94ee43cd" />
+
+<img width="489" height="257" alt="Screenshot 2026-03-30 at 3 37 16 PM" src="https://github.com/user-attachments/assets/5ed08e00-b520-4088-8b7d-4a753af6bad1" />
+
+
 
 
 
