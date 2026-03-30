@@ -15,8 +15,8 @@ The result is a clean, analysis-ready dataset that supports demographic insights
 
 ## Dashboard Preview
 
-[Dashboard 1.pdf](https://github.com/user-attachments/files/26359376/Dashboard.1.pdf)
 
+<img width="2550" height="3300" alt="Dashboard 1" src="https://github.com/user-attachments/assets/f201cdd5-c80d-4fb9-b0b8-ced8cd4f2fff" />
 
 
 ## Business / Healthcare Motivation
