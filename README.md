@@ -13,6 +13,12 @@ The result is a clean, analysis-ready dataset that supports demographic insights
 
 ---
 
+## Dashboard Preview
+
+[Dashboard 1.pdf](https://github.com/user-attachments/files/26359376/Dashboard.1.pdf)
+
+
+
 ## Business / Healthcare Motivation
 Understanding vaccination patterns is critical for improving public health outreach and identifying disparities in care access.
 
