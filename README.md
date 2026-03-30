@@ -15,9 +15,8 @@ The result is a clean, analysis-ready dataset that supports demographic insights
 
 ## Dashboard Preview
 
+<img width="1200" height="1553" alt="Dashboard 1" src="https://github.com/user-attachments/assets/0ba88beb-63b4-4d22-a42f-01b75a465d39" />
 
-<img src="https://github.com/user-attachments/assets/f201cdd5-c80d-4fb9-b0b8-ced8cd4f2fff" width="900">
-<p><em>Tableau dashboard visualizing vaccination trends across demographics</em></p>
 
 ---
 
